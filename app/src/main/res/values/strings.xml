@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleDTK</string>
+    <string name="email">email:</string>
+    <string name="phone">phone:</string>
+    <string name="connection_error">Connection error</string>
+    <string name="error_photo_loading_message">Loading photo\nerror\n<b>Refresh</b></string>
+</resources>
